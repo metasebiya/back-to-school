@@ -1,0 +1,18 @@
+.btn{
+    width: 120px;
+    float:right;
+    margin: 300px;
+}
+
+
+.frmctl{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: 80px;
+    text-align: center;
+}
+
+.papa:hover{
+    transform: scale(1.5);
+}

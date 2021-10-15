@@ -1,0 +1,77 @@
+{
+  "name": "back_to_school_eth_expo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@mobiscroll/react-lite": "^4.10.9",
+    "@mui/icons-material": "^5.0.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "aos": "^2.3.4",
+    "material-ui-dropzone": "^3.5.0",
+    "material-ui-search-bar": "^1.0.0",
+    "moment": "^2.29.1",
+    "page-slider-react": "^1.0.4",
+    "react": "^17.0.2",
+    "react-animations": "^1.0.0",
+    "react-avatar": "^3.10.0",
+    "react-awesome-slider": "^4.1.0",
+    "react-bootstrap": "^1.6.1",
+    "react-bootstrap-icons": "^1.5.0",
+    "react-dom": "^17.0.2",
+    "react-full-page": "^0.1.12",
+    "react-lottie": "^1.2.3",
+    "react-scripts": "4.0.3",
+    "react-scroll": "^1.8.4",
+    "react-share-button": "0.0.4",
+    "react-slick": "^0.28.1",
+    "react-slider-page": "^1.0.0",
+    "recompose": "^0.30.0",
+    "styled-components": "^5.3.1",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/data-grid": "^4.0.0-alpha.37",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^4.11.4",
+    "@mui/material": "^5.0.2",
+    "axios": "^0.21.1",
+    "clsx": "^1.1.1",
+    "prop-types": "^15.7.2",
+    "radium": "^0.26.1",
+    "react-datepicker": "^4.2.1",
+    "react-player": "^2.9.0",
+    "react-router-dom": "^5.2.1",
+    "reactstrap": "^8.9.0",
+    "yup": "^0.32.9"
+  }
+}
