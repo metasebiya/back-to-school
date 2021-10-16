@@ -1,5 +1,6 @@
 mongoose = require('mongoose');
-const uri = process.env.MONGODB_URI;
+var dbUrl = 'mongodb://localhost/event';
+const uri = process.env.MONGODB_URI/event;
 mongoose.connect(uri);
 
 // CONNECTION EVENTS
