@@ -26,5 +26,5 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
-const uri = process.env.MONGODB_URI;
+
 module.exports = app;
